@@ -1,0 +1,9 @@
+Package: spShortcuts
+Type: Package
+Title: My regularly used shortcut functions
+Version: 0.1
+Date: 2015-11-16
+Author: Steve Pederson
+Maintainer: Steve Pederson <stephen.pederson@adelaide.edu.au>
+Description: These are just a collection of simple functions I use all the time for convenience.
+License: GPL (>=2)
